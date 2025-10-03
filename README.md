@@ -1,7 +1,7 @@
 # Task 3 – Timer Programming with Arduino Nano  
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Top language](https://img.shields.io/github/languages/top/LeoTomy/Timer Programming with Arduino Nano)
+![Top language](https://img.shields.io/github/languages/top/LeoTomy/Timer-Programming-with-Arduino-Nano--)
 ![Platform](https://img.shields.io/badge/platform-Arduino%20Nano-orange.svg)  
 ![Status](https://img.shields.io/badge/status-Completed-success.svg)  
 
@@ -34,7 +34,7 @@ The project demonstrates how to:
   - Potentiometer (analog input)  
   - Servo motor (PWM output)  
   - LED + Resistor  
-📷  ![Line Follower Robot](docs/robot.jpg)
+📷  https://github.com/LeoTomy/Timer-Programming-with-Arduino-Nano--/blob/main/setup.png
 
 
 ---
@@ -44,4 +44,8 @@ The project demonstrates how to:
 2. Connect the hardware as described.  
 3. Adjust the potentiometer and observe servo + LED behavior.  
 
+
 ---
+
+## 📖 License
+This project is licensed under the **MIT License** – free to use, modify, and distribute.
